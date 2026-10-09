@@ -1,0 +1,25 @@
+# Competition data and anything derived from it must never be committed
+*.wav
+*.mp3
+*.flac
+*.csv
+*.npy
+*.npz
+*.json
+*.zip
+*.parquet
+*.pkl
+*.pt
+*.bin
+*.safetensors
+asr_raw/
+features/
+data/
+input/
+working/
+
+# notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
