@@ -2,7 +2,7 @@
 
 My solution to the **SHL Hiring Assessment 2026** Kaggle challenge: given a 45 to 60 second recording of someone speaking English, predict the grammar score (0 to 5) that human raters gave it.
 
-The full write-up (data findings, validation design, results, ablations, error analysis, fairness checks and next steps) is inside the notebook: **[`shl-grammar-scoring-final.ipynb`](shl-grammar-scoring-final.ipynb)**.
+The full write-up (data findings, validation design, results, ablations, error analysis, fairness checks and next steps) is inside the notebook: **[`shl-grammar-scoring-final.ipynb`](https://github.com/YUVRAJ-NOVA/shl-grammar-scoring-engine/blob/main/shl-final-grammar-scoring.ipynb)**.
 
 ## Results
 
